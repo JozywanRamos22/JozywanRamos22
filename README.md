@@ -10,8 +10,9 @@ com obejetivo de evolouir na carreira como programador :
   * <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   * [![Jozywan Stats](https://github-readme-stats.vercel.app/api?username=JozywanRamos22)](https://github.com/anuraghazra/github-readme-stats)
   * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozywanRamos22)](https://github.com/anuraghazra/github-readme-stat)
-  *  <h2>Se conecte comigo: </h2></![jo\ywanramos](https://user-images.githubusercontent.com/126177415/222816434-437db9a0-ac18-4c86-bf1a-b42e37aad3b1.png)
-
+  *  <h2>Se conecte comigo: </h2>
+  *  <a href="https://www.instagram.com/jozywan_ramos/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
 
   
 
