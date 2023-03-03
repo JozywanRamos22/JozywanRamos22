@@ -1,7 +1,7 @@
 ### Olá Sejam Bem-Vindos ao meu GitHub
 :snowflake:
 Eu sou o Josivan Ramos, me resido em Palmas-TO sou um Desenvolvedor Web Júnior, estou estudando JavaScript e React
-com obejetivo de evolouir pa carreira como programador :
+com obejetivo de evolouir na carreira como programador :
 <br/>
 <br/>
 
