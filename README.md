@@ -8,6 +8,6 @@ com obejetivo de evolouir pa carreira como programador :
   * <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   * [![Jozywan Stats](https://github-readme-stats.vercel.app/api?username=JozywanRamos22)](https://github.com/anuraghazra/github-readme-stats)
-  * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozywanRamos22)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozywanRamos22)](https://github.com/anuraghazra/github-readme-stat)
+  
+![333243821_556612709585968_989510767698373316_n](https://user-images.githubusercontent.com/126177415/222793777-161f83ee-7478-4507-a65c-33cae57b84e3.jpg)
