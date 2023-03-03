@@ -12,6 +12,7 @@ com obejetivo de evolouir na carreira como programador :
   * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JozywanRamos22)](https://github.com/anuraghazra/github-readme-stat)
   *  <h2>Se conecte comigo: </h2>
   *  <a href="https://www.instagram.com/jozywan_ramos/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  * <a href="https://www.linkedin.com/in/jozywan-ramos-989769268/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 
   
